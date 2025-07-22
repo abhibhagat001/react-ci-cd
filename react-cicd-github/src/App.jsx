@@ -22,6 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>I am learning CI/CD Pipeline today.</p>
+        <div>added div</div>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
